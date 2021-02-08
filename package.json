@@ -1,7 +1,7 @@
 {
-  "name": "@kkb/for-editor",
-  "version": "0.0.1",
-  "description": "react markdown editor",
+  "name": "markdown-latex",
+  "version": "0.0.3",
+  "description": "react markdown latex",
   "main": "dist/index.js",
   "scripts": {
     "start": "npm run dev",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kkfor/for-editor.git"
+    "url": "git+https://github.com/Cyad/markdown-latex.git"
   },
   "keywords": [
     "javascript",
@@ -24,14 +24,14 @@
   "author": "cuiyu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kkfor/for-editor/issues"
+    "url": "https://github.com/Cyad/markdown-latex/issues"
   },
   "files": [
     "dist/",
     "index.d.ts",
     "LICENSE"
   ],
-  "homepage": "https://github.com/kkfor/for-editor#readme",
+  "homepage": "https://github.com/Cyad/markdown-latex/blob/main/README.md",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/plugin-proposal-class-properties": "^7.2.3",

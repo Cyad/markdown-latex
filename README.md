@@ -10,6 +10,7 @@
 
 ```js
 npm install markdown-latex -S
+yarn add markdown-latex
 ```
 
 ### 使用
